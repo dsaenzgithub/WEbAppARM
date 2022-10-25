@@ -19,5 +19,5 @@ steps:
     resourceGroupName: 'GRA'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://github.com/dsaenzgithub/WEbAppARM.git'
+    csmFileLink: 'https://github.com/dsaenzgithub/WEbAppARM.git/azuredeploy.json'
     deploymentMode: 'Incremental'
